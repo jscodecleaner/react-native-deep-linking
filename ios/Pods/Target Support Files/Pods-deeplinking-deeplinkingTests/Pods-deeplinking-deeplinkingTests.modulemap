@@ -1,0 +1,6 @@
+module Pods_deeplinking_deeplinkingTests {
+  umbrella header "Pods-deeplinking-deeplinkingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
