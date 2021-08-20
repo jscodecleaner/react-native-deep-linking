@@ -89,6 +89,11 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>PingFang-SC-Light.ttf</string>
+		<string>PingFang-SC-Medium.ttf</string>
+		<string>PingFang-SC-Regular.ttf</string>
+		<string>PingFang-SC-Semibold.ttf</string>
+		<string>PingFang-SC-Thin.ttf</string>
 	</array>
 </dict>
 </plist>

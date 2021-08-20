@@ -87,7 +87,7 @@ const TabIcon = ({ icon, text, focused }) => {
           color: focused ? 'black' : '#8E92A2',
           fontSize: 12,
           marginTop: -4,
-          // fontFamily: 'PingFang SC Medium',
+          fontFamily: 'PingFang-SC-Medium',
         }}
       >
         {text}

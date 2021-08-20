@@ -24,13 +24,13 @@ export default StyleSheet.create({
     color: 'white',
     fontSize: 60,
     lineHeight: 72,
-    // fontFamily: 'PingFang SC Semibold',
+    fontFamily: 'PingFang-SC-Semibold',
     marginBottom: 7,
   },
   InfoTextText: {
     color: 'white',
     fontSize: 12,
-    // fontFamily: 'PingFang SC Medium',
+    fontFamily: 'PingFang-SC-Medium',
     lineHeight: 20,
   },
 })
