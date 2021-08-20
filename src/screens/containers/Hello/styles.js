@@ -16,7 +16,7 @@ export default StyleSheet.create({
   TextContainer: {
     position: 'absolute',
     zIndex: 2,
-    marginTop: 165,
+    marginTop: height * 0.25,
     marginLeft: 33,
     marginRight: 33,
   },
@@ -24,12 +24,13 @@ export default StyleSheet.create({
     color: 'white',
     fontSize: 60,
     lineHeight: 72,
-    fontWeight: 'bold',
+    // fontFamily: 'PingFang SC Semibold',
     marginBottom: 7,
   },
   InfoTextText: {
     color: 'white',
     fontSize: 12,
+    // fontFamily: 'PingFang SC Medium',
     lineHeight: 20,
   },
 })
